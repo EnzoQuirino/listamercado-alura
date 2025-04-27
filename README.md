@@ -15,6 +15,13 @@ A simple grocery list application built using **JavaScript**, **HTML5**, and **C
 - HTML5
 - CSS3
 
+## 🌐 Live Demo on Netlify
+
+You can view the live version of this project deployed on **Netlify** at the following link:
+
+[**Grocery List App - Live Demo**](listamercado11.netlify.app)
+
+
 ## 📦 Getting Started
 
 To run this project locally:
